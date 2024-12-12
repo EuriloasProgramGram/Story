@@ -1,0 +1,28 @@
+body {
+  padding: 50px;
+  font: 14px "Berlin Sans FB Demi";
+  background: #5b6cac;
+}
+
+a {
+  color: #ef1d1d;
+}
+
+h1,p,label,input{
+  color: #211340;
+}
+
+input{
+  border: 2px solid #282885;
+  background: #b7b7fa;
+}
+
+button{
+  background: #7373d1;
+  border: 2px solid #354270;
+}
+
+select{
+  border: 2px solid #282885;
+  background: #7878da;
+}
